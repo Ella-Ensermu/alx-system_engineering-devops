@@ -1,6 +1,6 @@
 # ssh_config
 
-Host *
+Host web-01
     PasswordAuthentication no
     IdentityFile ~/.ssh/school
     SendEnv LANG LC_*
